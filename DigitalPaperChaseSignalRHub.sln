@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalPaperChaseSignalRHub", "DigitalPaperChaseSignalRHub\DigitalPaperChaseSignalRHub.csproj", "{73C463B9-9A0E-4853-83EF-AEDFBF1E5EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C463B9-9A0E-4853-83EF-AEDFBF1E5EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C463B9-9A0E-4853-83EF-AEDFBF1E5EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C463B9-9A0E-4853-83EF-AEDFBF1E5EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C463B9-9A0E-4853-83EF-AEDFBF1E5EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6458C4E-3727-402D-9DA6-AA65D461BEB8}
+	EndGlobalSection
+EndGlobal
